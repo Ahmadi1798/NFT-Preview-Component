@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main{
+    background-color: hsl(217, 54%, 11%);
+}
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    background-color: hsl(216, 50%, 16%);
+}
+.Cyan {
+    text-color: hsl(178, 100%, 50%);
+}
